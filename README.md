@@ -26,7 +26,3 @@ ir-BNB/assets/129204388/d267a825-5b2d-49b8-
 ![Screenshot 2024-03-08 102620](https://github.com/pragyasingh-29/Air-BNB/assets/129204388/952e6b78-f106-4d24-9fd0-cee03cd45bee)
 be12-c8fcec6a35a5)![Screenshot 2024-03-08 102746](https://github.com/pragyasingh-29/Air-BNB/assets/12920
 ![Screenshot 2023-12-27 033001](https://github.com/pragyasingh-29/Air-BNB/assets/129204388/c3c488fa-de87-4621-90ba-3725e2a163f3)
-4388/c77231a5-f88b-4126-87b7-f57c59b52032)
-
-
-![Screenshot 2024-03-08 102727](https://github.com/pragyasingh-29/Air-BNB/assets/129204388/6d03dac6-071a-41a3-8099-639f83f35187)

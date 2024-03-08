@@ -4,7 +4,7 @@
 
 ## Tech Stack Used:
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,ejs,bootstrap,mongodb,express,node.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,bootstrap,mongodb,express,node.js)](https://skillicons.dev)
 
 ## Description:
 

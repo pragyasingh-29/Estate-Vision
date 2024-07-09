@@ -1,6 +1,6 @@
 # Air-BNB
 
-##### This is basically a website where anyone could upload its property for sent or rent while another could buy the property.
+##### A Real Estate Property Portal
 
 ## Tech Stack Used:
 

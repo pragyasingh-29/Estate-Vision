@@ -1,6 +1,6 @@
 # Air-BNB
 
-##### A Real Estate Property Portal
+#### A Real Estate Property Portal (MERN Stack)
 
 ## Tech Stack Used:
 
